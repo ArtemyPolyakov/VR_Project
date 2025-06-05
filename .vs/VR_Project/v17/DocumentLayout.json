@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\assets\\scripts\\painting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\painting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\assets\\scripts\\pressbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pressbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\assets\\scripts\\managecartanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managecartanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\assets\\scripts\\workpiecesincart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\workpiecesincart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\assets\\scripts\\workpieceinconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\workpieceinconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\assets\\scripts\\doorsanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doorsanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\assets\\scripts\\putworkpiececonveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\putworkpiececonveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PressButton.cs",
+              "DocumentMoniker": "C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\Assets\\Scripts\\PressButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PressButton.cs",
+              "ToolTip": "C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\Assets\\Scripts\\PressButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PressButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T23:45:24.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoorsAnimation.cs",
+              "DocumentMoniker": "C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\Assets\\Scripts\\DoorsAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorsAnimation.cs",
+              "ToolTip": "C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\Assets\\Scripts\\DoorsAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorsAnimation.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T22:46:52.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Painting.cs",
+              "DocumentMoniker": "C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\Assets\\Scripts\\Painting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Painting.cs",
+              "ToolTip": "C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\Assets\\Scripts\\Painting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Painting.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T22:43:17.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkPieceInConveyor.cs",
+              "DocumentMoniker": "C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\Assets\\Scripts\\WorkPieceInConveyor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WorkPieceInConveyor.cs",
+              "ToolTip": "C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\Assets\\Scripts\\WorkPieceInConveyor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WorkPieceInConveyor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T22:25:12.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PutWorkPieceConveyor.cs",
+              "DocumentMoniker": "C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\Assets\\Scripts\\PutWorkPieceConveyor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PutWorkPieceConveyor.cs",
+              "ToolTip": "C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\Assets\\Scripts\\PutWorkPieceConveyor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PutWorkPieceConveyor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T20:26:40.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageCartAnimator.cs",
+              "DocumentMoniker": "C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\Assets\\Scripts\\ManageCartAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ManageCartAnimator.cs",
+              "ToolTip": "C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\Assets\\Scripts\\ManageCartAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ManageCartAnimator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T19:07:26.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkPiecesInCart.cs",
+              "DocumentMoniker": "C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\Assets\\Scripts\\WorkPiecesInCart.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WorkPiecesInCart.cs",
+              "ToolTip": "C:\\Education\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\VR\\2 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VR_Project\\Assets\\Scripts\\WorkPiecesInCart.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WorkPiecesInCart.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:09:08.943Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
